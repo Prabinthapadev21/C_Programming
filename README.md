@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a **Bachelor of Computer Applications (BCA) st
 
 ## 🔧 Technologies & Tools  
 
-Here are some tools and technologies I'm currently working with or learning:  
+Here are some tools and technologies I'm currently working with or learning: 
 ![Tools and Technologies](https://skillicons.dev/icons?i=html,css,js,java,github,c&theme=light)  
 
 ## 📊 GitHub Stats  
